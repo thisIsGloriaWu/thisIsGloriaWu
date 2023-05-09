@@ -1,13 +1,16 @@
 <h2 align="center">Hi there, I'm Jiayue <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
 
-### Introduction
+### About Me
 
 - 👩‍🎓 I'm currently pursuing my master degree in **Computer Science** at [Northeastern University](https://www.northeastern.edu/).
-- 👩‍💻 I'm currently doing my **software engineer** internship at **AWS**.
+- 👩‍💻 I'm currently doing my **software engineer internship** at **AWS**.
 - 👩‍🔬 Prior to studying CS, I actually obtained a Bachelor's degree in Chemistry.
 - 🌱 I enjoy spending time in nature. I love cooking, travelling and playing the piano as well.
 - 💻 I'm tech-enthusiastic, self-motivated, passionate to explore new things and willing to take challenges!
 
+### How to Reach Me
+- I'm actively looking for **Software Engineer co-ops in 23 Fall** or **full-time new grad jobs in 2024**.
+- Please feel free to contact me at gloriawu0924@gmail.com or [Jiayue' LinkedIn](https://www.linkedin.com/in/jiayue-wu-gloria/)!
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,7 +46,3 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### How to Reach Me
-- I'm actively looking for **Software Engineer co-ops in 23 Fall or full-time newgrad jobs in 2024**.
-- Please feel free to contact me at gloriawu0924@gmail.com or [Jiayue' LinkedIn](https://www.linkedin.com/in/jiayue-wu-gloria/)!
