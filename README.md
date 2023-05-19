@@ -3,13 +3,13 @@
 ### About Me
 
 - 👩‍🎓 I'm pursuing my master degree in **Computer Science** at [Northeastern University](https://www.northeastern.edu/).
-- 👩‍💻 I'm currently doing my **software engineer internship** at **AWS**.
+- 👩‍💻 I'm currently doing my **software engineer internship** at **AWS** EFS (Elastic File System) team.
 - 👩‍🔬 Prior to studying CS, I obtained a Bachelor's degree in Chemistry.
 - 🌱 I enjoy spending time in nature. I love cooking, travelling and playing the piano as well.
 - 💻 I'm tech-enthusiastic, self-motivated, passionate to explore new things and willing to take challenges!
 
 ### How to Reach Me
-- I'm actively looking for **Software Engineer co-ops in 23 Fall** or **full-time new grad jobs in 2024**.
+- I'm actively looking for **Software Engineer co-ops in 2023 Fall** or **full-time new grad jobs in 2024**.
 - Please feel free to contact me at gloriawu0924@gmail.com or [Jiayue' LinkedIn](https://www.linkedin.com/in/jiayue-wu-gloria/)!
 
 ### Languages
