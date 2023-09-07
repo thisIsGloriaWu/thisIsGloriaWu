@@ -3,7 +3,7 @@
 ### About Me
 
 - 👩‍🎓 I'm pursuing my master degree in **Computer Science** at [Northeastern University](https://www.northeastern.edu/).
-- 👩‍💻 Ex **SDE intern** at **AWS** EFS (Elastic File System) team in 2023 Summer, incoming **SDE intern** at **Splunk** in 2023 Fall.
+- 👩‍💻 **SDE intern** at **Splunk** in 2023 Fall, Ex **SDE intern** at **AWS** EFS (Elastic File System) team in 2023 Summer.
 - 👩‍🔬 Prior to studying CS, I obtained a Bachelor's degree in Chemistry.
 - 🌱 I enjoy spending time in nature. I love cooking, travelling and playing the piano as well.
 - 💻 I'm tech-enthusiastic, self-motivated, passionate to explore new things and willing to take challenges!
